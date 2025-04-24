@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AES", "AES\AES.csproj", "{2A693FBA-3866-450C-AD09-FD826A177EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Debug|x64.ActiveCfg = Debug|x64
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Debug|x64.Build.0 = Debug|x64
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Debug|x86.ActiveCfg = Debug|x86
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Debug|x86.Build.0 = Debug|x86
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Release|x64.ActiveCfg = Release|x64
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Release|x64.Build.0 = Release|x64
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Release|x86.ActiveCfg = Release|x86
+		{2A693FBA-3866-450C-AD09-FD826A177EFD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D85467-A6B2-49B5-A0C0-4EE65AE8C9E0}
+	EndGlobalSection
+EndGlobal
